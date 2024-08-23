@@ -41,7 +41,7 @@ To view the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KDA-sparkle/booki-openclassroom-projet-3.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
